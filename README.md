@@ -3,7 +3,7 @@
 ### Integrantes
 - Gustavo Firmino Barbosa — RM 566903  
 - Lucas Nehrebecki da Cunha — RM 568186  
-- Igor Lima Marchiolli — RM 708684  
+- Igor Lima Marchiolli — RM 568330  
 
 ### Descrição
 Implementação em **JavaScript puro** de quatro cifras históricas usadas na criptografia:
